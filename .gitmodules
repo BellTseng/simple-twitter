@@ -1,0 +1,9 @@
+[submodule "twitter-api-2024"]
+	path = twitter-api-2024
+	url = https://github.com/BellTseng/twitter-api-2024.git
+[submodule "twitter-api-2020"]
+	path = twitter-api-2020
+	url = https://github.com/BellTseng/twitter-api-2020.git
+[submodule "Twitter-React"]
+	path = Twitter-React
+	url = https://github.com/BellTseng/Twitter-React.git
